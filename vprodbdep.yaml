@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: vprodb
-          image: 280314/vprofiledb:V1
+          image: vprofile/vprofiledb:V1
 #          args:
 #            - "--ignore-db-dir=lost+found"
           volumeMounts:
@@ -36,7 +36,7 @@ spec:
       volumes:
         - name: vpro-db-data
           awsElasticBlockStore:
-            volumeID: vol-06716ff3a67fe2bf9
+            volumeID: vol-07c83f0c67208cdbd
             fsType: ext4
       initContainers:
         - name: busybox

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30eb3eca-b739-44a2-99d4-cc362b2d58c7" name="Default Changelist" comment="vprofile app svc">
+    <list default="true" id="30eb3eca-b739-44a2-99d4-cc362b2d58c7" name="Default Changelist" comment="narigu db deploy file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vprodbdep.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/vprodbdep.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vprodbdep.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vprodbdep.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1602427102040</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="narigu db deploy file">
+      <option name="closed" value="true" />
+      <created>1702411378743</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702411378743</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +131,7 @@
     <MESSAGE value="db pod deploy" />
     <MESSAGE value="db svc" />
     <MESSAGE value="vprofile app svc" />
-    <option name="LAST_COMMIT_MESSAGE" value="vprofile app svc" />
+    <MESSAGE value="narigu db deploy file" />
+    <option name="LAST_COMMIT_MESSAGE" value="narigu db deploy file" />
   </component>
 </project>
