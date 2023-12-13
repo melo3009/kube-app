@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="30eb3eca-b739-44a2-99d4-cc362b2d58c7" name="Default Changelist" comment="narigu db deploy file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vprodbdep.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/vprodbdep.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vproappdep.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vproappdep.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702411378743</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="narigu db deploy file">
+      <option name="closed" value="true" />
+      <created>1702474227352</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702474227352</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
